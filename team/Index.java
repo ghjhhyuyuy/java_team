@@ -9,8 +9,8 @@ public class Index {
 		float max = sure1.Max(a);
 		float min = sure1.Min(a);
 		System.out.println("");
-		System.out.println("Æ½¾ù³É¼¨Îª"+average);
-		System.out.println("×î¸ß³É¼¨Îª"+max);
-		System.out.println("×îµÍ³É¼¨Îª"+min);
+		System.out.println("å¹³å‡"+average);
+		System.out.println("æœ€å¤§"+max);
+		System.out.println("æœ€å°"+min);
 	}
 }
